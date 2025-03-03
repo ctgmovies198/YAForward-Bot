@@ -55,7 +55,7 @@ async def pub_(bot, message):
        return await stop(client, user)
     temp.forwardings += 1
     await db.add_frwd(user)
-    await send(client, user, "<b>🚥 ғᴏʀᴡᴀʀᴅɪɴɢ sᴛᴀʀᴛᴇᴅ via <a href=https://t.me/Jisshu_forward_bot>Forward Bot</a></b>")
+    await send(client, user, "<b>🚥 ғᴏʀᴡᴀʀᴅɪɴɢ sᴛᴀʀᴛᴇᴅ via <a href=https://t.me/Forwarde1Bot>Forward Bot</a></b>")
     sts.add(time=True)
     sleep = 1 if _bot['is_bot'] else 10
     await msg_edit(m, "<b>Processing...</b>") 
@@ -165,7 +165,7 @@ PROGRESS = """
 
 ⏳️ ETA: {5}
 
-My Developer @Mr_Jisshu
+My Developer @TMSLZOONADMIN
 """
 
 async def msg_edit(msg, text, button=None, wait=None):
