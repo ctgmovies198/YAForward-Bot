@@ -8,7 +8,7 @@ class Translation(object):
 ◈ I Cᴀɴ Fᴏʀᴡᴀʀᴅ Aʟʟ Mᴇꜱꜱᴀɢᴇ Fʀᴏᴍ Oɴᴇ Cʜᴀɴɴᴇʟ Tᴏ Aɴᴏᴛʜᴇʀ Cʜᴀɴɴᴇʟ.
 ◈ Cʟɪᴄᴋ Hᴇʟᴘ Bᴜᴛᴛᴏɴ Tᴏ Kɴᴏᴡ Mᴏʀᴇ Aʙᴏᴜᴛ Mᴇ.
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/JISSHU_BOTS'>Jɪssʜᴜ ʙᴏᴛs</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/JISSHU_BOTS'>YA Bots</a></blockquote></b>"""
 
 
   HELP_TXT = """<b><u>🛠️ HELP</b></u>
